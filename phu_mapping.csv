@@ -1,35 +1,35 @@
-﻿PHU_name,Mapped_Name,Mapped_Name_2
-Algoma Public Health Unit,District of Algoma Health Unit,ALGOMA DISTRICT
-Brant County Health Unit,Brant County Health Unit,BRANT COUNTY
-Chatham-Kent Health Unit,Chatham-Kent Health Unit,CHATHAM-KENT
-Durham Region Health Department,Durham Regional Health Unit,DURHAM REGION
-Eastern Ontario Health Unit,Eastern Ontario Health Unit,EASTERN ONTARIO
-Grey Bruce Health Unit,Grey Bruce Health Unit,GREY BRUCE
-Haldimand-Norfolk Health Unit,Haldimand-Norfolk Health Unit,HALDIMAND-NORFOLK
-"Haliburton, Kawartha, Pine Ridge District Health Unit","Haliburton, Kawartha, Pine Ridge District Health Unit","HALIBURTON, KAWARTHA, PINE RIDGE"
-Halton Region Health Department,Halton Regional Health Unit,HALTON REGION
-Hamilton Public Health Services,City of Hamilton Health Unit,CITY OF HAMILTON
-Hastings and Prince Edward Counties Health Unit,Hastings and Prince Edward Counties Health Unit,HASTINGS & PRINCE EDWARD COUNTIES
-Huron Perth Health Unit,Huron Perth Health Unit,HURON PERTH
-"Kingston, Frontenac and Lennox and Addington Health Unit","Kingston, Frontenac and Lennox and Addington Health Unit","KINGSTON, FRONTENAC, LENNOX & ADDINGTON"
-Lambton Public Health,Lambton Health Unit,LAMBTON COUNTY
-"Leeds, Grenville and Lanark District Health Unit","Leeds, Grenville and Lanark District Health Unit","LEEDS, GRENVILLE AND LANARK DISTRICT"
-Middlesex-London Health Unit,Middlesex-London Health Unit,MIDDLESEX-LONDON
-Niagara Region Public Health Department,Niagara Regional Area Health Unit,NIAGARA REGION
-North Bay Parry Sound District Health Unit,North Bay Parry Sound District Health Unit,NORTH BAY PARRY SOUND DISTRICT
-Northwestern Health Unit,Northwestern Health Unit,NORTHWESTERN
-Ottawa Public Health,City of Ottawa Health Unit,CITY OF OTTAWA
-Peel Public Health,Peel Regional Health Unit,PEEL REGION
-Peterborough Public Health,Peterborough County-City Health Unit,PETERBOROUGH COUNTY-CITY
-Porcupine Health Unit,Porcupine Health Unit,PORCUPINE
-"Region of Waterloo, Public Health",Waterloo Health Unit,WATERLOO REGION
-Renfrew County and District Health Unit,Renfrew County and District Health Unit,RENFREW COUNTY AND DISTRICT
-Simcoe Muskoka District Health Unit,Simcoe Muskoka District Health Unit,SIMCOE MUSKOKA DISTRICT
-Southwestern Public Health,Southwestern Public Health,OXFORD ELGIN-ST.THOMAS
-Sudbury and District Health Unit,Sudbury and District Health Unit,SUDBURY AND DISTRICT
-Thunder Bay District Health Unit,Thunder Bay District Health Unit,THUNDER BAY DISTRICT
-Timiskaming Health Unit,Timiskaming Health Unit,TIMISKAMING
-Toronto Public Health,City of Toronto Health Unit,TORONTO
-Wellington-Dufferin-Guelph Health Unit,Wellington-Dufferin-Guelph Health Unit,WELLINGTON-DUFFERIN-GUELPH
-Windsor-Essex County Health Unit,Windsor-Essex County Health Unit,WINDSOR-ESSEX COUNTY
-York Region Public Health,York Regional Health Unit,YORK REGION
+﻿PHU_name,Mapped_Name,Mapped_Name_2,Mapped_Name_3
+Algoma Public Health Unit,District of Algoma Health Unit,ALGOMA DISTRICT,Algoma Public Health Unit
+Brant County Health Unit,Brant County Health Unit,BRANT COUNTY,Brant County Health Unit
+Chatham-Kent Health Unit,Chatham-Kent Health Unit,CHATHAM-KENT,Chatham-Kent Health Unit
+Durham Region Health Department,Durham Regional Health Unit,DURHAM REGION,Durham Region Health Department
+Eastern Ontario Health Unit,Eastern Ontario Health Unit,EASTERN ONTARIO,Eastern Ontario Health Unit
+Grey Bruce Health Unit,Grey Bruce Health Unit,GREY BRUCE,Grey Bruce Health Unit
+Haldimand-Norfolk Health Unit,Haldimand-Norfolk Health Unit,HALDIMAND-NORFOLK,Haldimand-Norfolk Health Unit
+"Haliburton, Kawartha, Pine Ridge District Health Unit","Haliburton, Kawartha, Pine Ridge District Health Unit","HALIBURTON, KAWARTHA, PINE RIDGE","Haliburton, Kawartha, Pine Ridge District Health Unit"
+Halton Region Health Department,Halton Regional Health Unit,HALTON REGION,Halton Region Health Department
+Hamilton Public Health Services,City of Hamilton Health Unit,CITY OF HAMILTON,Hamilton Public Health Services
+Hastings and Prince Edward Counties Health Unit,Hastings and Prince Edward Counties Health Unit,HASTINGS & PRINCE EDWARD COUNTIES,Hastings and Prince Edward Counties Health Unit
+Huron Perth Health Unit,Huron Perth Health Unit,HURON PERTH,Huron Perth District Health Unit
+"Kingston, Frontenac and Lennox and Addington Health Unit","Kingston, Frontenac and Lennox and Addington Health Unit","KINGSTON, FRONTENAC, LENNOX & ADDINGTON","Kingston, Frontenac and Lennox & Addington Public Health"
+Lambton Public Health,Lambton Health Unit,LAMBTON COUNTY,Lambton Public Health
+"Leeds, Grenville and Lanark District Health Unit","Leeds, Grenville and Lanark District Health Unit","LEEDS, GRENVILLE AND LANARK DISTRICT","Leeds, Grenville and Lanark District Health Unit"
+Middlesex-London Health Unit,Middlesex-London Health Unit,MIDDLESEX-LONDON,Middlesex-London Health Unit
+Niagara Region Public Health Department,Niagara Regional Area Health Unit,NIAGARA REGION,Niagara Region Public Health Department
+North Bay Parry Sound District Health Unit,North Bay Parry Sound District Health Unit,NORTH BAY PARRY SOUND DISTRICT,North Bay Parry Sound District Health Unit
+Northwestern Health Unit,Northwestern Health Unit,NORTHWESTERN,Northwestern Health Unit
+Ottawa Public Health,City of Ottawa Health Unit,CITY OF OTTAWA,Ottawa Public Health
+Peel Public Health,Peel Regional Health Unit,PEEL REGION,Peel Public Health
+Peterborough Public Health,Peterborough County-City Health Unit,PETERBOROUGH COUNTY-CITY,Peterborough Public Health
+Porcupine Health Unit,Porcupine Health Unit,PORCUPINE,Porcupine Health Unit
+"Region of Waterloo, Public Health",Waterloo Health Unit,WATERLOO REGION,"Region of Waterloo, Public Health"
+Renfrew County and District Health Unit,Renfrew County and District Health Unit,RENFREW COUNTY AND DISTRICT,Renfrew County and District Health Unit
+Simcoe Muskoka District Health Unit,Simcoe Muskoka District Health Unit,SIMCOE MUSKOKA DISTRICT,Simcoe Muskoka District Health Unit
+Southwestern Public Health,Southwestern Public Health,OXFORD ELGIN-ST.THOMAS,Southwestern Public Health
+Sudbury and District Health Unit,Sudbury and District Health Unit,SUDBURY AND DISTRICT,Sudbury & District Health Unit
+Thunder Bay District Health Unit,Thunder Bay District Health Unit,THUNDER BAY DISTRICT,Thunder Bay District Health Unit
+Timiskaming Health Unit,Timiskaming Health Unit,TIMISKAMING,Timiskaming Health Unit
+Toronto Public Health,City of Toronto Health Unit,TORONTO,Toronto Public Health
+Wellington-Dufferin-Guelph Health Unit,Wellington-Dufferin-Guelph Health Unit,WELLINGTON-DUFFERIN-GUELPH,Wellington-Dufferin-Guelph Public Health
+Windsor-Essex County Health Unit,Windsor-Essex County Health Unit,WINDSOR-ESSEX COUNTY,Windsor-Essex County Health Unit
+York Region Public Health,York Regional Health Unit,YORK REGION,York Region Public Health Services
